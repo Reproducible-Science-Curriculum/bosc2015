@@ -1,4 +1,4 @@
-PDFS := $(patsubst %.md, %.html, $(wildcard *.md))
+PDFS := $(patsubst %.md, %.pdf, $(filter-out README.md, $(wildcard *.md)))
 
 build: $(PDFS)
 
