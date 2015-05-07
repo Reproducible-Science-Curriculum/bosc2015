@@ -4,3 +4,8 @@ build: $(PDFS)
 
 %.pdf: %.md
 	pandoc $< -H header.tex -o $@
+
+.PHONY: clean
+
+clean:
+	rm -f $(PDFS)
