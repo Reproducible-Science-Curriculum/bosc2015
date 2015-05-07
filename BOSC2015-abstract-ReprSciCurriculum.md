@@ -1,8 +1,8 @@
 --------------   -------------------------------------------
 **Title**        A curriculum for teaching Reproducible Computational Science bootcamps
-**Author**       _Hilmar Lapp_, Participants of the Reproducible Science Curriculum Hackathon
-**Affiliation**  National Evolutionary Synthesis Center (NESCent) and Duke University, Center for Genomic and Computational Biology;
-                 <https://github.com/Reproducible-Science-Curriculum/Reproducible-Science-Hackathon-Dec-08-2014/wiki/Participant-List>
+**Author**       _Hilmar Lapp_, [Participants of the Reproducible Science Curriculum Hackathon][1]
+**Affiliation**  Duke University, Center for Genomic and Computational Biology;
+                 and National Evolutionary Synthesis Center (NESCent)
 **Contact**      hilmar.lapp@duke.edu
 **URL**          <https://github.com/Reproducible-Science-Curriculum/Reproducible-Science-Hackathon-Dec-08-2014>
 **License**      [Creative Commons Zero][2]
@@ -48,6 +48,6 @@ expect the workshops to be replicated through train-the-trainer
 events, much similar to the Software Carpentry and Data Carpentry
 workshops and teaching model.
 
-
+[1]: https://github.com/Reproducible-Science-Curriculum/Reproducible-Science-Hackathon-Dec-08-2014/wiki/Participant-List
 [2]: https://creativecommons.org/publicdomain/zero/1.0/
 [3]: https://github.com/Reproducible-Science-Curriculum/Reproducible-Science-Hackathon-Dec-08-2014
