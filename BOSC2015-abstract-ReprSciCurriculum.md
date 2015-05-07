@@ -45,9 +45,11 @@ data and compute-intensive research. We will present the five basic
 lessons that comprise the curriculum, and results from teaching them
 at the inaugural workshop scheduled for May 2015. If successful, we
 expect the workshops to be replicated through train-the-trainer
-events, much similar to the Software Carpentry and Data Carpentry
+events, much similar to the [Software Carpentry][4] and [Data Carpentry][5]
 workshops and teaching model.
 
 [1]: https://github.com/Reproducible-Science-Curriculum/Reproducible-Science-Hackathon-Dec-08-2014/wiki/Participant-List
 [2]: https://creativecommons.org/publicdomain/zero/1.0/
 [3]: https://github.com/Reproducible-Science-Curriculum/Reproducible-Science-Hackathon-Dec-08-2014
+[4]: http://software-carpentry.org/
+[5]: http://datacarpentry.org/
