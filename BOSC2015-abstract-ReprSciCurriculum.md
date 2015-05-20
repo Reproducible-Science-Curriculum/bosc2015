@@ -11,7 +11,7 @@
 Verifiability and reproducibility are among the cornerstones of the
 scientific process. They are what allows scientists to "stand on the
 shoulder of giants". Maintaining reproducibility requires that all
-data management, analysis, and visualization steps behing the results
+data management, analysis, and visualization steps behind the results
 presented in a paper are documented and available in full
 detail. Reproducibility here means that someone else should either be
 able to obtain the same results given all the documented inputs and
