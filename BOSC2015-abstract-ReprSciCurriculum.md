@@ -41,7 +41,7 @@ new tools, or parameter modifications. The effort is an international
 collaboration of faculty, bioinformaticians, and IT personnel from
 different fields and disciplines, some of whom are actively
 prototyping and developing tools to improve the reproducibility of
-data and compute-intensive research. We will present the five basic
+data and compute-intensive research. We will present the basic
 lessons that comprise the curriculum, and results from teaching them
 at the inaugural workshop scheduled for May 2015. If successful, we
 expect the workshops to be replicated through train-the-trainer
