@@ -38,12 +38,12 @@ throughout by reproducibility not primarily for the future benefit of
 others, but for the benefit of accelerating one's own research, for
 example by more easily repeating and extending analyses with new data,
 new tools, or parameter modifications. The effort is an international
-collaboration of faculty, bioinformaticians, and IT personnel from
-different fields and disciplines, some of whom are actively
+collaboration of a diverse group of people from different fields,
+disciplines, career tracks and stages, some of whom are actively
 prototyping and developing tools to improve the reproducibility of
 data and compute-intensive research. We will present the basic
 lessons that comprise the curriculum, and results from teaching them
-at the inaugural workshop scheduled for May 2015. If successful, we
+at the first two workshops held in May and June 2015. If successful, we
 expect the workshops to be replicated through train-the-trainer
 events, much similar to the [Software Carpentry][4] and [Data Carpentry][5]
 workshops and teaching model.
