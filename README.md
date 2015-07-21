@@ -1,7 +1,7 @@
 Curriculum for teaching Reproducible Computational Science bootcamps
 ====================================================================
-
-[![DOI](https://zenodo.org/badge/doi/10.5281/zenodo.17844.svg)](http://dx.doi.org/10.5281/zenodo.17844)
+[![DOI](https://zenodo.org/badge/doi/10.5281/zenodo.20765.svg)](http://dx.doi.org/10.5281/zenodo.20765) (with slides)
+[![DOI](https://zenodo.org/badge/doi/10.5281/zenodo.17844.svg)](http://dx.doi.org/10.5281/zenodo.17844) (abstract)
 
 Talk abstract accepted for the 2015 Bioinformatics Open Source Conference ([BOSC 2015]).
 
